@@ -1,4 +1,4 @@
-# hawtof-the-press
+# hawtofthepress
 
 Monospace brutalist Ghost theme with first‑class Ghost Portal and built‑in search support.
 
